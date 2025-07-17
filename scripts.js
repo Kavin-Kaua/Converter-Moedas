@@ -93,10 +93,6 @@ function changeCurrency() {
       currencyName.innerHTML = "Libra Esterlina";
       currencyImage.src = "./assets/Libra.png";
       break;
-    case "BTC":
-      currencyName.innerHTML = "Bitcoin";
-      currencyImage.src = "./assets/Bitcoin.png";
-      break;
     case "BRL":
       currencyName.innerHTML = "Real Brasileiro";
       currencyImage.src = "./assets/Real.png";
@@ -116,10 +112,6 @@ function changeCurrency() {
     case "GBP":
       currencyOriginName.innerHTML = "Libra Esterlina";
       currencyOriginImage.src = "./assets/Libra.png";
-      break;
-    case "BTC":
-      currencyOriginName.innerHTML = "Bitcoin";
-      currencyOriginImage.src = "./assets/Bitcoin.png";
       break;
     case "BRL":
       currencyOriginName.innerHTML = "Real Brasileiro";
