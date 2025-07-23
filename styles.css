@@ -97,3 +97,30 @@ color: #555555;
 font-weight: 700;
 font-size: 20px;
 }
+
+@media screen and (max-width: 430px) {    
+    .logo-image{
+        width: 150px;
+        height: 150px;
+    }
+
+    main {
+        width: 80%;
+        height: 80%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
